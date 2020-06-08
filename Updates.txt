@@ -1,1 +1,0 @@
-https://gitlab.com/rndnet/apps/bfj.py/-/commit/8582175764e11e06965e9da0282e729efdb0b760
